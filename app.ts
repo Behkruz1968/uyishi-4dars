@@ -55,18 +55,7 @@
 
 
 
-// function Nimadir(input:string|number):string|number{
-//     if(typeof input==='string'){
-//         return input.toUpperCase()
-//     }
-//     else if(typeof input === 'number')
-//     {
-//         return input ** 2;
-//     }
-//     return input;
-// }
-// console.log(Nimadir("salom"));
-// console.log(Nimadir(5));
+
 
 
 
